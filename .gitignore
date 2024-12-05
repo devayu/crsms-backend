@@ -5,6 +5,7 @@ Thumbs.db
 # Node.js dependencies
 node_modules/
 
+/public/media/*
 # Python cache
 __pycache__/
 *.py[cod]
